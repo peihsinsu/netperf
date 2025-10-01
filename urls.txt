@@ -1,0 +1,2 @@
+https://mirror.sitsa.com.ar/ubuntu-releases/noble/ubuntu-24.04.3-desktop-amd64.iso
+https://mirror.sitsa.com.ar/ubuntu-releases/noble/ubuntu-24.04.3-live-server-amd64.iso

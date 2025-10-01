@@ -1,0 +1,11 @@
+# Example URL list for testing bandfetch
+# Lines starting with # are comments
+
+# Small test files
+https://speed.hetzner.de/100MB.bin
+https://proof.ovh.net/files/100Mb.dat
+
+# Medium test files
+https://speed.hetzner.de/1GB.bin
+
+# Add your own URLs below:

@@ -1,0 +1,56 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bandfetch
+bandfetch-*
+
+# Test binary
+*.test
+
+# Output coverage
+*.out
+*.prof
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories
+vendor/
+
+# Go build cache
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Download outputs
+downloads/
+*.part
+
+# Test fixtures
+testdata/tmp/
+
+# Release artifacts
+releases/
+dist/
+*.tar.gz
+*.zip
+SHA256SUMS
+*.deb
+*.rpm
+
+# Build artifacts
+*.log
